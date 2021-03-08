@@ -12,148 +12,178 @@ source_metadata:
       title: ''
       volume_number: 1
       total_pages: 470
+      base_file: v001.txt
     3e5f6b4dbd124766812747c7169bf700:
       image_group_id: I1KG81083
       title: ''
       volume_number: 2
       total_pages: 406
+      base_file: v002.txt
     cfac04b9e8524724acb86e6375c8ac6c:
       image_group_id: I1KG81084
       title: ''
       volume_number: 3
       total_pages: 528
+      base_file: v003.txt
     fe4d6d7e06fc4aec89cd3983e4be297c:
       image_group_id: I1KG81085
       title: ''
       volume_number: 4
       total_pages: 706
+      base_file: v004.txt
     e6b6c6d10de2482fad2616795ae4097e:
       image_group_id: I1KG81086
       title: ''
       volume_number: 5
       total_pages: 472
+      base_file: v005.txt
     3cf5fbd44e274d50ae9ecea966e473ed:
       image_group_id: I1KG81087
       title: ''
       volume_number: 6
       total_pages: 382
+      base_file: v006.txt
     d8b710d853a541258b79517922ed1801:
       image_group_id: I1KG81088
       title: ''
       volume_number: 7
       total_pages: 530
+      base_file: v007.txt
     bcbdbcf8658d4770a9f78d6087794131:
       image_group_id: I1KG81089
       title: ''
       volume_number: 8
       total_pages: 410
+      base_file: v008.txt
     0a293572c1334b16859003ec48948923:
       image_group_id: I1KG81090
       title: ''
       volume_number: 9
       total_pages: 510
+      base_file: v009.txt
     c13b5ed62333486380f42c7caa6ff851:
       image_group_id: I1KG81091
       title: ''
       volume_number: 10
       total_pages: 488
+      base_file: v010.txt
     51eb20f75b5043118483081eab3b12ff:
       image_group_id: I1KG81092
       title: ''
       volume_number: 11
       total_pages: 506
+      base_file: v011.txt
     a635342926df44079dc61e53c4813249:
       image_group_id: I1KG81093
       title: ''
       volume_number: 12
       total_pages: 420
+      base_file: v012.txt
     a3010723dc4c41d79f0a6623036c586c:
       image_group_id: I1KG81094
       title: ''
       volume_number: 13
       total_pages: 448
+      base_file: v013.txt
     ae87f32e2b7949ff87b846d2b97a243c:
       image_group_id: I1KG81095
       title: ''
       volume_number: 14
       total_pages: 340
+      base_file: v014.txt
     c06d503495fa43e791eb4579869fef41:
       image_group_id: I1KG81096
       title: ''
       volume_number: 15
       total_pages: 424
+      base_file: v015.txt
     b197c70f784c48a7802e3dca0b511eab:
       image_group_id: I1KG81097
       title: ''
       volume_number: 16
       total_pages: 356
+      base_file: v016.txt
     9764512a8b094158a6c6378c15920dd8:
       image_group_id: I1KG81098
       title: ''
       volume_number: 17
       total_pages: 408
+      base_file: v017.txt
     245a54f550b745aca44df1ebc7c8cf31:
       image_group_id: I1KG81099
       title: ''
       volume_number: 18
       total_pages: 438
+      base_file: v018.txt
     11b5ef842acc4869b6d24c2203223af0:
       image_group_id: I1KG81100
       title: ''
       volume_number: 19
       total_pages: 494
+      base_file: v019.txt
     be5015fc06d240c9adc518664799fa10:
       image_group_id: I1KG81101
       title: ''
       volume_number: 20
       total_pages: 446
+      base_file: v020.txt
     4c8e56e56a1344babebeb925a5c8d404:
       image_group_id: I1KG81102
       title: ''
       volume_number: 21
       total_pages: 448
+      base_file: v021.txt
     b808b2b800fa44f19d55ee84fd9b35e6:
       image_group_id: I1KG81103
       title: ''
       volume_number: 22
       total_pages: 378
+      base_file: v022.txt
     20432295942744f5abd1afe06fe23643:
       image_group_id: I1KG81104
       title: ''
       volume_number: 23
       total_pages: 416
+      base_file: v023.txt
     b4409ae2992e418092c5e67b79eef67b:
       image_group_id: I1KG81105
       title: ''
       volume_number: 24
       total_pages: 430
+      base_file: v024.txt
     80d9b683845846a899b393cabd10450b:
       image_group_id: I1KG81106
       title: ''
       volume_number: 25
       total_pages: 504
+      base_file: v025.txt
     ef341fa657b24f05a9c0a3db4726e191:
       image_group_id: I1KG81107
       title: ''
       volume_number: 26
       total_pages: 420
+      base_file: v026.txt
     45761fe626f64af88b41481541876a8a:
       image_group_id: I1KG81108
       title: ''
       volume_number: 27
       total_pages: 422
+      base_file: v027.txt
     5195b83f1fc243ebb97b56e0271a540e:
       image_group_id: I1KG81109
       title: ''
       volume_number: 28
       total_pages: 498
+      base_file: v028.txt
     d1c8076a7ce741009a5cdb13ea6ee52e:
       image_group_id: I1KG81110
       title: ''
       volume_number: 29
       total_pages: 388
+      base_file: v029.txt
     8037c665225a4898bee08bd06dfd2a9a:
       image_group_id: I1KG81111
       title: ''
       volume_number: 30
       total_pages: 380
+      base_file: v030.txt
